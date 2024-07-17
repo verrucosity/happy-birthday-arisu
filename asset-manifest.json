@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/happy-birthday-arisu/static/css/main.0f1ffe05.css",
-    "main.js": "/happy-birthday-arisu/static/js/main.215e6788.js",
+    "main.js": "/happy-birthday-arisu/static/js/main.cf27b47f.js",
     "static/js/453.1bf3fa13.chunk.js": "/happy-birthday-arisu/static/js/453.1bf3fa13.chunk.js",
     "index.html": "/happy-birthday-arisu/index.html",
     "main.0f1ffe05.css.map": "/happy-birthday-arisu/static/css/main.0f1ffe05.css.map",
-    "main.215e6788.js.map": "/happy-birthday-arisu/static/js/main.215e6788.js.map",
+    "main.cf27b47f.js.map": "/happy-birthday-arisu/static/js/main.cf27b47f.js.map",
     "453.1bf3fa13.chunk.js.map": "/happy-birthday-arisu/static/js/453.1bf3fa13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f1ffe05.css",
-    "static/js/main.215e6788.js"
+    "static/js/main.cf27b47f.js"
   ]
 }
