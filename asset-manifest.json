@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/verrucosity/happy-birthday-arisu.git/static/css/main.0f1ffe05.css",
-    "main.js": "/verrucosity/happy-birthday-arisu.git/static/js/main.c2cc7d12.js",
-    "static/js/453.1bf3fa13.chunk.js": "/verrucosity/happy-birthday-arisu.git/static/js/453.1bf3fa13.chunk.js",
-    "index.html": "/verrucosity/happy-birthday-arisu.git/index.html",
-    "main.0f1ffe05.css.map": "/verrucosity/happy-birthday-arisu.git/static/css/main.0f1ffe05.css.map",
-    "main.c2cc7d12.js.map": "/verrucosity/happy-birthday-arisu.git/static/js/main.c2cc7d12.js.map",
-    "453.1bf3fa13.chunk.js.map": "/verrucosity/happy-birthday-arisu.git/static/js/453.1bf3fa13.chunk.js.map"
+    "main.css": "/happy-birthday-arisu/static/css/main.0f1ffe05.css",
+    "main.js": "/happy-birthday-arisu/static/js/main.215e6788.js",
+    "static/js/453.1bf3fa13.chunk.js": "/happy-birthday-arisu/static/js/453.1bf3fa13.chunk.js",
+    "index.html": "/happy-birthday-arisu/index.html",
+    "main.0f1ffe05.css.map": "/happy-birthday-arisu/static/css/main.0f1ffe05.css.map",
+    "main.215e6788.js.map": "/happy-birthday-arisu/static/js/main.215e6788.js.map",
+    "453.1bf3fa13.chunk.js.map": "/happy-birthday-arisu/static/js/453.1bf3fa13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f1ffe05.css",
-    "static/js/main.c2cc7d12.js"
+    "static/js/main.215e6788.js"
   ]
 }
